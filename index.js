@@ -27,7 +27,7 @@ function Calculate() {
     // Special case
     if ((operation === "divide") && (num1 == 9) && (num2 == 11)) {
         var result = "Porsche 911 GT3 RS"
-        document.getElementById("image").src = "assets/911.gif"
+        document.getElementById("image").src = "assets/trolling-content.gif"
     }
 
     // Display the result in the "result" element
